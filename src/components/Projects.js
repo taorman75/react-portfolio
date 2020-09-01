@@ -83,14 +83,13 @@ class Projects extends Component {
         return(
             <div>
                 <Card shadow={5} style={{minWidth: "450", margin: "auto"}}>
-            <CardTitle style={{color: "#fff", height: "176px", background: "url(https://images.pexels.com/photos/1996333/pexels-photo-1996333.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500) center / cover"}}>React Project</CardTitle> 
+            <CardTitle style={{color: "#fff", height: "176px", background: "url(https://images.pexels.com/photos/277667/pexels-photo-277667.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500) center / cover"}}>NeighBOARD</CardTitle> 
                 <CardText>
-                    Doggo ipsum very taste wow heckin good boys he made many woofs, very hand that feed shibe. 
+                This boot camp group project - utilizing SQL, Sequelize, and Handlebars - allows a user to interact with their community; includes a post option, a board, and a neighbor listing.
             </CardText>
             <CardActions border>
-                <Button colored>Github</Button>
-                <Button colored>Live</Button>
-                <Button colored>Test</Button>
+                <Button colored href="https://github.com/taorman75/NeighBOARD" target="_blank">Github</Button>
+                <Button colored href="https://infinite-springs-66297.herokuapp.com">Live</Button>
             </CardActions>
             <CardMenu style={{color: "#fff"}}>
             <IconButton name="share" />
