@@ -13,14 +13,14 @@ class Projects extends Component {
             <div className="projects-grid">
 
             <Card shadow={5} style={{minWidth: "450", margin: "auto"}}>
-            <CardTitle style={{color: "#fff", height: "176px", background: "url(https://images.pexels.com/photos/1996333/pexels-photo-1996333.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500) center / cover"}}>React Project</CardTitle> 
+            <CardTitle style={{color: "#fff", height: "176px", background: "url(https://images.pexels.com/photos/1996333/pexels-photo-1996333.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500) center / cover"}}>React Portfolio</CardTitle> 
                 <CardText>
-                    Doggo ipsum very taste wow heckin good boys he made many woofs, very hand that feed shibe. 
+                    The React version of my Portfolio on GitHub
             </CardText>
             <CardActions border>
-                <Button colored>Github</Button>
+                <Button colored href="https://github.com/taorman75/react-portfolio" target="_blank">Github</Button>
                 <Button colored>Live</Button>
-                <Button colored>Test</Button>
+                
             </CardActions>
             <CardMenu style={{color: "#fff"}}>
             <IconButton name="share" />

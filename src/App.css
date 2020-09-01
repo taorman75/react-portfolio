@@ -53,6 +53,10 @@
     display: flex;
 }
 
+.resume-page {
+    padding: 20px;
+}
+
 .social-links {
     display: flex;
     justify-content: space-between;
