@@ -19,9 +19,9 @@ class Landing extends Component {
                             <p>HTML/CSS | BootStrap | JavaScript | React | Node.js</p>
 
                             <div className="social-links">
-                                <a href="https://www.linkedin.com/in/tana-orman-92ba955/" rel="noopener noreferrer" target="_blank"><i className="fa fa-linkedin-square" aria-hidden="true"/></a>
+                                <a href="https://www.linkedin.com/in/tana-orman-92ba955/" rel="noopener noreferrer" target="_blank"><i className="fa fa-linkedin-square"/></a>
 
-                                <a href="https://github.com/taorman75" rel="noopener noreferrer" target="_blank"><i className="fa fa-github-square" aria-hidden="true"/></a>
+                                <a href="https://github.com/taorman75" rel="noopener noreferrer" target="_blank"><i className="fa fa-github-square"/></a>
 
                                 <a href="http://google.com" rel="noopener noreferrer" target="_blank"><i class="fa fa-twitter-square"></i></a>
                             </div>
