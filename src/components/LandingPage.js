@@ -11,7 +11,7 @@ class Landing extends Component {
                     <Cell col={12}>
                         <img 
                             // src={ProfileCover}
-                            alt="Tana"
+                            alt="Tana Orman"
                             className="avatar-img"
                         />
                         <div className="banner-text">
